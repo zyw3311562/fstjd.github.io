@@ -1,0 +1,126 @@
+<html>
+<TITLE>黑麒麟欢迎你,防水突击队与黑麒麟同在站长QQ:378443873电话:13189707010</TITLE>
+<style type="text/css">
+body {
+	background-color: #000000;
+	padding: 50px;
+	background-image: url(http://www.cdsqgtj.gov.cn/2010/1008/crack.gif);
+	scrollbar-face-color: #000000;
+	scrollbar-highlight-color: #000000;
+	scrollbar-shadow-color: #000000;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-arrow-color: #000000;
+	scrollbar-track-color: #000000;
+	scrollbar-darkshadow-color: #000000;
+}
+#theText {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 36px;
+	text-transform: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+}
+textarea {
+	font-size: 14px;
+	color: #00FF00;
+	background-color: #000000;
+
+}
+</style>
+</head>
+
+<BODY><SPAN id=theText style="WIDTH: 100%">黑麒麟:www.fstjd.cn/</SPAN>
+<Script>
+var from = 5;
+var to = 11;
+var delay = 55;
+var glowColor = "#FF0000";
+var i = to;
+var j = 0;
+textPulseDown();
+function textPulseUp()
+{
+if (!document.all)
+return
+if (i < to)
+{
+theText.style.filter = "Glow(Color=" + glowColor + ", Strength=" + i + ")";
+i++;
+theTimeout = setTimeout('textPulseUp()',delay);
+return 0;
+}
+if (i = to)
+{
+theTimeout = setTimeout('textPulseDown()',delay);
+return 0;
+}
+}
+function textPulseDown()
+{
+if (!document.all)
+return
+if (i > from)
+{
+theText.style.filter = "Glow(Color=" + glowColor + ", Strength=" + i + ")";
+i--;
+theTimeout = setTimeout('textPulseDown()',delay);
+return 0;
+}
+if (i = from)
+{
+theTimeout = setTimeout('textPulseUp()',delay);
+return 0;
+}
+}
+</Script>
+<BODY><SPAN id=theText style="WIDTH: 100%">血狱Angel吐血推荐要学黑客技术直接找China·鄂文哥或一切从现在开始交友群   群号4795000</SPAN>
+<P></P>　
+<P></P>　
+<P></P>
+<form name="textform">
+  <div align="center">
+    <textarea name="textfield" cols=90 rows=20 class="textfield"></textarea>
+    <script language="javascript">
+var pos=0;
+function ShowText(strText)
+{
+document.textform.textfield.value = strText.substring(0,pos++);
+setTimeout("ShowText(strText)",50);
+if(pos==strText.length)
+{
+           return;
+}
+}
+var strText = "\n \n     --》黑麒麟永久网站http://www.fstjd.cn/一个永远不会解散的真正的黑客组织， \n \n     --》字母简称为[h.e.z]本团队组织由文哥于2009年创建一直就叫黑麒麟 \n \n     --》黑麒麟实力雄厚资源丰富内部技术全面各种精品黑软琳琅满目千G资源; \n \n     --》根据发展的模式现在大量招收黑客爱好学员提供软件加教程手把手教. \n \n     --》学员不论年龄性别学历大小只要有兴趣就OK内部最小学员14岁最大的30岁, \n \n     --》如果你曾不幸被欺骗过那么这次你机会真的来了来吧黑麒麟缘你黑客梦. \n \n     --》内部讲师文哥无工作也不工作玩黑一辈子24小时在线为学员们解决疑难杂症 \n \n     --》讲师QQ:378443873电话:13189707010背后说我坏话的杂种们咱们实际证明一切吧. \n \n     --》一切从现在开始交友群   群号4795000黑麒麟欢迎你.";
+ShowText(strText);
+</SCRIPT>
+ <script language="javascript" src="http://code.54kefu.net/kefu/js/75/112675.js" charset="utf-8"></script>
+
+<iframe src="http://www.111ttt.com/fmp/index.html" width="100%" height="20" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" name="265"></iframe>
+ <div id="live-play" class="layout fn-clear">
+<div class="gg01">
+<div align="center" style="line-height: 150%"><object type="application/x-shockwave-flash" data="http://www.kanmin.cn/cmp/cmp/player.swf" width="100%" height="640" id="CMP_305201424751"><param name="movie" value="http://www.kanmin.cn/cmp/cmp/player.swf" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /></object>>
+	</div>
+
+
+	</div>
+
+		</div>
+    <tr><td width="100%" height="12" align="center"><p align="center"><font color="#FFFF00">[H.E.Z]旗下网站 | </font><a href="http://www.hack70tv.tk/" target="_blank"><font color="#FFFFFF">黑麒麟论坛</font></a><font color="#FFFFFF"> | </font><a href="http://www.hack70tv.tk/dy10.htm/" target="_blank"><font color="#7FFF00">黑麒麟搜索</font></a><font color="#FFFFFF"> | </font><a href="http://www.xaczlm.com/player/images/cmp/cmp.swf?url=ys230.xml&lists=http://4410.open.yinqu.com/ssl/2014/2014.xml&.swf" target="_blank"><font color="#FFFFFF">黑麒麟影视</font></a><font color="#FFFFFF"> | </font><a href="http://www.hack70.com/tools" target="_blank"><font color="#FFFFFF">黑麒麟工具</font></a><font color="#FFFFFF"> | </font><a href="http://25352.com.com/vip" target="_blank" style="color: #0000EE">黑客培训圣地</a></font></td></tr>
+<tr><td width="100%" height="14" align="center"><p align="center"><font color="#FFFFFF">Copyrights &copy; 2010 - 2020 www.ＨＡＣＫ７０TV.tk All Rights Reserved</font></td></tr>
+    <tr><td width="100%" height="14" align="center"><p align="center"><font color="#FFFFFF">版权所有&nbsp;&nbsp; 黑 麒 麟 安 全 网</font></td></tr>
+    <tr><td width="100%" height="14" align="center"><font color="#FF0000">（黑麒麟曰：只有想不到，没有做不到）</font></td></tr>
+    <tr><td width="100%" height="14" align="center"><a href="http://www.miibeian.gov.cn" target="_blank"><font color="#FFFFFF">鄂ICP备09070148号</font></a></td></tr>
+
+    
+    </table>
+    </center>
+  </div>
+</form>
+</body>
+</html>
+
+/
+</div>
+</html>                                    
